@@ -2,10 +2,9 @@
 Mark 2 (neog.camp)
 
 
-Title : Business Quiz
+Title : JavaScript Quiz
 
 here, I used nodeJS and repl.it to host my simple quiz app.
-Also, used chalk to color stuff.
 
 Dependencies used:
 readline-sync
